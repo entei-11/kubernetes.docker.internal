@@ -1,5 +1,7 @@
 # Getting started with kubernetes.docker.internal
 
+This method flawlessly installs and configures local 1-node Kubernetes cluster on Windows with Docker Desktop and WSL2 enabled.
+
 ## Install local Kubernetes via Docker Desktop
 
 First go to `Docker Desktop -> Options -> Kubernetes`
